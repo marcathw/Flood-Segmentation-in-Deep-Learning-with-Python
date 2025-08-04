@@ -25,13 +25,6 @@ This computer vision project utilizes a U-Net architecture for semantic segmenta
 
 - **Model Evaluation**
   - Visualization of training & validation loss, accuracy, and IoU over epochs
-  - Final model evaluation with:
-    - **Train Loss**: 0.1971
-    - **Validation Loss**: 0.2359
-    - **Train Accuracy**: 0.9089
-    - **Validation Accuracy**: 0.8945
-    - **Train IoU**: 0.8161
-    - **Validation IoU**: 0.7999
   - Sample predictions visualized alongside ground truth masks
 
 ---
