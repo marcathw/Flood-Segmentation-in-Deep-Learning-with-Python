@@ -36,5 +36,3 @@ This computer vision project utilizes a U-Net architecture for semantic segmenta
 - Data generators for image-mask pairs
 - Binary segmentation using satellite imagery
 - Evaluation using IoU, accuracy, and loss trends
-4. Run `train_unet.py` to train the model.
-5. Visualize results with the provided notebook or script.
