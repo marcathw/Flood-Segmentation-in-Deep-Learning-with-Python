@@ -29,7 +29,7 @@ This computer vision project utilizes a U-Net architecture for semantic segmenta
 
 ---
 
-## 📊 Concepts Used
+## 🧠 Concepts Used
 
 - Semantic Segmentation with U-Net
 - Image denoising and quality control
